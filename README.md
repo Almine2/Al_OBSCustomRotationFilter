@@ -2,7 +2,9 @@
 Custom rotation filter for OBS
 
 This filter can rotate "source" around XYZ axis.<br>
-Also let you change projection direction.
+Also let you change projection direction. <br>
+
+Not so great. still has problems.
 
 ## Installation
 
